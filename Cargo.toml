@@ -1,6 +1,6 @@
 [package]
 name = "bitrate"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Dylan Frankland <dylan@frankland.io>"]
 categories = ["embedded", "hardware-support", "no-std"]
 description = "Extension traits that add convenience methods for working with bitrates and frequencies."

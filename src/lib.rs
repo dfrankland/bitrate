@@ -1,5 +1,7 @@
 //! Extension traits that add convenience methods for working with bitrates and frequencies.
 
+#![no_std]
+
 /// Bits per second
 #[derive(Clone, Copy, Debug)]
 pub struct Bps<T>(pub T);
